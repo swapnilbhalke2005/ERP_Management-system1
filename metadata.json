@@ -1,0 +1,6 @@
+{
+  "name": "OmniERP - Enterprise Operations & Google Sheets Cloud ERP",
+  "description": "Production-grade modular ERP system managing CRM, Sales, Inventory, Procurement, HR, Finance, and Projects with Google Sheets database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
